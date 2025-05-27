@@ -1,0 +1,611 @@
+@media (min-width: 300px) and (max-width: 600px) {
+  #sidebar {
+    display: none;
+  }
+  .menu-icon {
+    display: inline;
+    position: relative;
+    /* left: -41px; */
+    right: 49px;
+    top: 24px;
+  }
+  .dash-search {
+    width: 140px;
+  }
+
+  .main-header-join {
+    display: flex;
+  }
+  .main-heager-div {
+    background-color: rgb(222 239 241);
+    height: 70px;
+    width: 413px;
+    padding: 20px 13px;
+    border-radius: 20px 20px 0px 0px;
+  }
+  .dash-header-boy-img {
+    display: flex;
+    gap: 24px;
+    height: 0px;
+    /* width: 1200px; */
+    background-color: transparent;
+
+    padding: 15px 7px;
+    border-radius: 0px 36px 0px 0px;
+  }
+  .search-bar {
+    height: 60px;
+    /* width: 1200px; */
+    background-color: whitesmoke;
+    padding: 15px 7px;
+  }
+  .header {
+    display: block;
+  }
+  #boy-img {
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  #plus-img {
+    margin-top: 0px;
+  }
+  .header-search-bar-img {
+    display: inline-flex;
+
+    align-items: center;
+  }
+  .home-main {
+    display: block;
+  }
+  .dash-h1-name {
+    display: inline-flex;
+    gap: 123px;
+  }
+  .man-body-weight {
+    padding: 10px 7px;
+  }
+  .man-body {
+    height: 330px;
+    width: 130px;
+    padding: 10px 0px;
+    margin-left: 13px;
+  }
+  .man-all-body img {
+    width: 117px !important;
+    margin-left: 8px !important;
+  }
+  .detail-name {
+    margin-left: 100px;
+  }
+  .man-weightws {
+    width: 27px;
+  }
+  .man-weightws-box1 {
+    height: 100px;
+    width: 133px;
+
+    margin-left: 127%;
+  }
+  .laungs-name-border {
+    width: 91px;
+
+    margin-left: 19px;
+  }
+  .laungs-name-h1 {
+    font-size: 0.7rem;
+  }
+  .body-name-one {
+    width: 48px;
+    font-size: 0.4rem;
+    margin-left: 77%;
+    margin-top: 29%;
+  }
+  .body-name-on {
+    width: 56px;
+    font-size: 0.4rem;
+    margin-left: -4%;
+  }
+  .detail-name {
+    margin-top: 17px;
+  }
+  .home-main-one {
+    height: 602px;
+    width: 645.555px;
+    background-color: transparent;
+  }
+  .dashboard-container-second {
+    height: auto;
+  }
+  .man-activity-all {
+    width: 298px;
+    margin-left: 14px;
+  }
+  .lines-div {
+    gap: 1px;
+    margin-left: 21px;
+  }
+  .home-main-two {
+    height: 620px;
+    width: 311px;
+    background-color: rgb(222 239 241);
+    border-radius: 0px 0px 28px 0px;
+    margin-left: 11px;
+  }
+  .section-two-name2 {
+    margin-left: 45%;
+  }
+  .section-second-days1 {
+    gap: 11px;
+    margin-left: 0px;
+    font-size: 0.6rem;
+  }
+  .section-one-name {
+    font-size: 1rem;
+    font-weight: 700;
+  }
+  .dentist {
+    height: 76px;
+    width: 134px;
+
+    font-size: 0.6rem;
+  }
+  .dentist-teeth {
+    padding: 13px 18px 0px 19px;
+    gap: 49px;
+  }
+  .appointment {
+    height: 75px;
+    width: 184px;
+    font-size: 0.5rem;
+  }
+  .schedule-name {
+    font-size: 0.7rem;
+  }
+  .schedule-name-on {
+    font-size: 0.7rem;
+  }
+  .dentist-teeth-check {
+    padding: 19px 18px 0px 19px;
+    gap: 0px;
+  }
+  .appointment-health {
+    width: 166px !important;
+
+    font-size: 0.6rem;
+  }
+  .dentist-health {
+    width: 139px;
+    font-size: 0.6rem;
+  }
+  .dentist-teeth-health {
+    display: flex;
+    gap: 43px;
+    padding: 22px 18px 0px 18px;
+  }
+  .dentist-and-appo {
+    gap: 6px;
+    margin-left: 5px;
+  }
+  .dentist-amd-appo {
+    display: flex;
+    gap: 21px;
+    margin-left: -4px;
+    margin-top: 18px;
+  }
+  .tue {
+    text-decoration: none;
+}
+#sidebar{
+    margin-top: -21%;
+}
+}
+
+@media (min-width: 600px) and (max-width: 900px) {
+      #sidebar {
+    display: none;
+  }
+  .menu-icon {
+    display: inline;
+    position: relative;
+    /* left: -41px; */
+    right: 49px;
+    top: 24px;
+  }
+      .dash-search {
+        width: 445px;
+    }
+
+  .main-header-join {
+    display: flex;
+  }
+     .main-heager-div {
+        background-color: rgb(222 239 241);
+        height: 70px;
+        width: 699px;
+        padding: 20px 13px;
+        border-radius: 20px 20px 0px 0px;
+    }
+  .dash-header-boy-img {
+    display: flex;
+    gap: 24px;
+    height: 0px;
+    /* width: 1200px; */
+    background-color: transparent;
+
+    padding: 15px 7px;
+    border-radius: 0px 36px 0px 0px;
+  }
+  .search-bar {
+    height: 60px;
+    /* width: 1200px; */
+    background-color: whitesmoke;
+    padding: 15px 7px;
+  }
+  .header {
+    display: block;
+  }
+     #boy-img {
+        margin-left: 78px;
+        margin-top: 0px;
+    }
+  #plus-img {
+    margin-top: 0px;
+  }
+  .header-search-bar-img {
+    display: inline-flex;
+
+    align-items: center;
+  }
+  .home-main {
+    display: block;
+  }
+  .dash-h1-name {
+    display: inline-flex;
+    gap: 123px;
+  }
+      .man-body-weight {
+        padding: 10px 49px;
+    }
+       .man-body {
+        height: 388px;
+        width: 387px;
+        padding: 10px 0px;
+        margin-left: 13px;
+    }  
+      .man-all-body img {
+         margin-top: -62px !important;
+        width: 163px !important;
+        margin-left: 107px !important;
+    }
+  .detail-name {
+    margin-left: 100px;
+  }
+  .man-weightws {
+    width: 27px;
+  }
+         .man-weightws-box1 {
+        height: 113px;
+        width: 169px;
+        margin-left: 269%;
+    }
+  .laungs-name-border {
+    width: 91px;
+
+    margin-left: 19px;
+  }
+  .laungs-name-h1 {
+    font-size: 0.7rem;
+  }
+     .body-name-one {
+        width: 152px;
+        font-size: 0.6rem;
+        margin-left: 73%;
+        margin-top: 27%;
+        position: relative;
+        top: -50px;
+    }
+      .body-name-on {
+        width: 122px;
+        font-size: 0.6rem;
+        margin-top: -103px;
+        margin-left: -4%;
+    }
+  .detail-name {
+    margin-top: 17px;
+  }
+  .home-main-one {
+    height: 602px;
+    width: 645.555px;
+    background-color: transparent;
+  }
+  .dashboard-container-second {
+    height: auto;
+  }
+      .man-activity-all {
+        width: 636px;
+        margin-left: 60px;
+    }
+      .lines-div {
+        gap: 8px;
+        margin-left: 50px;
+    }
+      .home-main-two {
+        height: 620px;
+        width: 611px;
+        background-color: rgb(222 239 241);
+        border-radius: 0px 0px 28px 0px;
+        margin-left: 71px;
+        margin-top: 3%;
+    }
+  .section-two-name2 {
+    margin-left: 45%;
+  }
+      .section-second-days1 {
+        gap: 19px;
+        margin-left: 35px;
+        font-size: 0.7rem;
+    }
+  .section-one-name {
+    font-size: 1rem;
+    font-weight: 700;
+  }
+     .dentist {
+        height: 81px;
+        width: 169px;
+        font-size: 0.6rem;
+    }
+     .dentist-teeth {
+        padding: 16px 18px 0px 19px;
+        gap: 81px;
+    }
+      .appointment {
+        height: 80px;
+        width: 324px;
+        font-size: 0.6rem ;
+;
+    }
+  .schedule-name {
+    font-size: 0.7rem;
+  }
+  .schedule-name-on {
+    font-size: 0.7rem;
+  }
+     .dentist-teeth-check {
+        padding: 19px 18px 0px 19px;
+        gap: 173px;
+    }
+     .appointment-health {
+        width: 348px !important;
+        font-size: 0.6rem;
+    }
+  .dentist-health {
+    width: 139px;
+    font-size: 0.6rem;
+  }
+  .dentist-teeth-health {
+    display: flex;
+    gap: 43px;
+    padding: 22px 18px 0px 18px;
+  }
+  .dentist-and-appo {
+        gap: 48px;
+        margin-left: 27px;
+    }
+      .dentist-amd-appo {
+        display: flex
+;
+        gap: 50px;
+        margin-left: 30px;
+        margin-top: 18px;
+    }
+  .tue {
+    background-color: rgb(194, 236, 236);
+    height: 181px;
+    width: 78px;
+    border-radius: 5px;
+    /* margin-top: 4px; */
+}
+#sidebar{
+    margin-top: -8%;
+}
+.dentist-name-ph{
+    margin-left: 62px;
+}
+}
+
+@media (min-width: 900px) and (max-width: 1200px) {
+     #sidebar {
+    display: none;
+  }
+  .menu-icon {
+    display: inline;
+    position: relative;
+    /* left: -41px; */
+    right: 49px;
+    top: 24px;
+  }
+      .dash-search {
+        width: 445px;
+    }
+
+  .main-header-join {
+    display: flex;
+  }
+        .main-heager-div {
+        background-color: rgb(222 239 241);
+        height: 70px;
+        width: 999px;
+        padding: 20px 13px;
+        border-radius: 20px 20px 0px 0px;
+    }
+  .dash-header-boy-img {
+    display: flex;
+    gap: 24px;
+    height: 0px;
+    /* width: 1200px; */
+    background-color: transparent;
+
+    padding: 15px 7px;
+    border-radius: 0px 36px 0px 0px;
+  }
+  .search-bar {
+    height: 60px;
+    /* width: 1200px; */
+    background-color: whitesmoke;
+    padding: 15px 7px;
+  }
+  .header {
+    display: block;
+  }
+     #boy-img {
+        margin-left: 78px;
+        margin-top: 0px;
+    }
+  #plus-img {
+    margin-top: 0px;
+  }
+     .header-search-bar-img {
+        display: inline-flex
+;
+        align-items: center;
+        gap: 266px;
+    }
+    .section-one-name2{
+        display: none;
+    }
+  .home-main {
+    display: block;
+  }
+  .dash-h1-name {
+    display: inline-flex;
+    gap: 123px;
+  }
+      .man-body-weight {
+        padding: 10px 49px;
+    }
+         .man-body {
+        height: 502px;
+        width: 472px;
+        padding: 17px 0px;
+        margin-left: 41px;
+    }
+         .man-all-body img {
+        margin-top: -34px !important;
+        width: 198px !important;
+        margin-left: 141px !important;
+    }
+  .detail-name {
+    margin-left: 100px;
+  }
+  .man-weightws {
+    width: 27px;
+  }
+        .man-weightws-box1 {
+        height: 146px;
+        width: 213px;
+        margin-left: 369%;
+    }
+    .laungs-name{
+        padding: 14px;
+    }
+      .laungs-name-border {
+        width: 149px;
+        margin-left: 33px;
+        margin-top: 25px;
+    }
+    .laungs-name-date {
+    margin-top: 7px;
+    
+    margin-left: 33px;
+    
+}
+  .laungs-name-h1 {
+    font-size: 0.7rem;
+  }
+       .body-name-one {
+        width: 152px;
+        font-size: 0.6rem;
+        margin-left: 67%;
+        margin-top: 26%;
+        position: relative;
+        top: -29px;
+    }
+        .body-name-on {
+        width: 122px;
+        font-size: 0.6rem;
+        margin-top: -125px;
+        margin-left: 15%;
+    }
+  .detail-name {
+    margin-top: 17px;
+  }
+  .home-main-one {
+    height: 602px;
+    width: 645.555px;
+    background-color: transparent;
+  }
+  .dashboard-container-second {
+    height: auto;
+  }
+        .man-activity-all {
+        width: 896px;
+        margin-left: 60px;
+    }
+        .lines-div {
+        gap: 14px;
+        margin-left: 76px;
+    }
+    .dash-h2-name {
+    
+    margin-top: 15%;
+}
+     .home-main-two {
+        height: 620px;
+        width: 870px;
+        background-color: rgb(222 239 241);
+        border-radius: 0px 0px 28px 0px;
+        margin-left: 71px;
+        margin-top: 3%;
+    }
+     .section-two-name2 {
+        margin-left: 84%;
+    }
+         .section-second-days1 {
+        gap: 19px;
+        margin-left: 72px;
+        font-size: 0.7rem;
+    }
+  .section-one-name {
+    font-size: 1rem;
+    font-weight: 700;
+  }   
+      
+#sidebar{
+    margin-top: -8%;
+}
+ .schedule-name {
+    padding: 15px 199px;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+.schedule-name-on {
+    margin-left: 201px;
+    font-size: 0.9rem;
+    color: gray;
+}
+.dentist-and-appo {
+    display: flex
+;
+    gap: 21px;
+    margin-left: 195px;
+    margin-top: 18px;
+}
+ 
+.dentist-amd-appo {
+    display: flex
+;
+    gap: 21px;
+    margin-left: 195px;
+    margin-top: 18px;
+}
+}

@@ -1,0 +1,129 @@
+.icon {
+  vertical-align: middle;
+  line-height: 1px;
+  font-size: 20px;
+}
+.icon-header {
+  vertical-align: middle;
+  line-height: 1px;
+  font-size: 26px;
+}
+.icon,
+.icon-header {
+  /* margin-right: 5px; */
+}
+/* header */
+.header {
+  display: flex;
+  /* height: 80px; */
+
+  align-items: center;
+
+  /* padding: 0 30px 0 30px; */
+  /* background-color: rgb(113, 155, 211); */
+  box-shadow: 1 6px 7px -3px rgb(163, 156, 235);
+        padding-top: 7px;
+    padding-left: 15px;
+}
+.main-heager-div {
+  background-color:  rgb(222 239 241);
+  height: 60px;
+  /* width: 280px; */
+      padding: 20px 62px;
+     border-radius: 36px 0px 1px 0px
+}
+.search-bar {
+  height: 60px;
+  /* width :1200px; */
+  background-color:  whitesmoke;
+  padding: 15px 31px;
+}
+.header-search-bar-img {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.dash-logo {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 7px;
+}
+.logo-p {
+  color: aqua;
+  font-size: 20px;
+}
+ .dash-search {
+    display: flex
+;
+    height: 35px;
+    width: 543px;
+    border: 2px solid rgb(217, 234, 238);
+    border-radius: 3px;
+    margin-left: px;
+    align-items: center;
+        margin-top: 10px;
+}
+.bell-icon-dash {
+  display: flex;
+  height: 35px;
+  width: 35px;
+  border: 2px solid rgb(219, 232, 235);
+  border-radius: 3px;
+  justify-content: center;
+  align-items: center;
+      margin-top: 10px;
+}
+.head-search {
+  margin-left: 12px;
+  font-size: 15px;
+}
+.head-search-name {
+  font-size: 13px;
+  font-style: italic;
+  margin-left: 5px;
+}
+.bell-icon-dash-a {
+  margin-right: 15%;
+}
+.menu-icon {
+  display: none;
+}
+.menu-icon-logo {
+  color: black;
+}
+.dash-header-boy-img {
+  display: flex; 
+  gap: 25px;
+  height: 60px;
+  /* width :1200px; */
+  background-color:   rgb(222 239 241);
+  padding: 15px 58px;
+  border-radius: 0px 36px 0px 0px;
+}
+.dash-header-boy {
+  height: 30px;
+  width: 30px;
+
+  display: flex;
+  justify-content: center;
+  border-radius: 7px;
+  align-items: center;
+}
+.dash-header-boy-one {
+  background-color: aqua;
+      /* margin-left: 296px; */
+}
+.dash-header-boy-two {
+  background-color: blue;
+}
+.sidebar-list {
+  list-style: none;
+}
+ #boy-img{
+  margin-left: 395px;
+  margin-top: 15px;
+ }
+ 
+  #plus-img{
+    margin-top: 15px;
+  }

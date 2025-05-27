@@ -1,0 +1,347 @@
+.home-main{
+    display: flex;
+}
+.home-main-one{
+    height: 602px;
+         width: 645.555px;
+        background-color: whitesmoke;
+}
+.dash-h1-name{
+        display: flex
+;
+    justify-content: space-between;
+         padding: 12px 31px;
+}
+.section-one-name{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.section-one-name2{
+        font-size: 0.8rem;
+    margin-top: 10px;
+}
+.man-body-weight{
+    display: flex;
+     padding: 10px 31px;
+     /* justify-content: space-around; */
+}
+ .man-body {
+    height: 356px;
+    width: 316px;
+       background-color: rgb(222 239 241);
+ 
+    padding: 10px 20px;
+    border-radius: 36px;
+    margin-left: 23px;
+}
+.man-weightws{
+     height: 100px;
+    width: 50px;
+        
+
+}
+ .man-activity-all {
+    height: 133px;
+    width: 577px;
+    background-color: rgb(222 239 241);
+    padding: -3px 31px;
+    
+    border-radius: 36px;
+    margin-left: 29px;
+    margin-top: 11px;
+}
+ .man-weightws-box1 {
+    height: 103px;
+    width: 165px;
+  
+    border-radius: 24px;
+    background-color: rgb(222 239 241);
+    margin-top: 6px;
+    margin-left: 127%;
+}
+.home-search{
+         margin-left: 223px;
+    font-size: 15px;
+    margin-top: 3%;
+}
+.body-name-one{
+    width: 141px;
+       height: 26px;
+    padding-top: 6px;
+    text-align: center;
+    background-color: #0c52b7;
+    color: white;
+      font-size: 0.7rem;
+    border-radius: 5px;
+    margin-left: 69%;
+    margin-top: 25%;
+}
+.body-name-on{
+     width: 141px;
+          height: 26px;
+    padding-top: 6px;
+    text-align: center;
+    background-color:   rgb(41, 191, 236);
+    color: white;
+    font-size: 0.7rem;
+    border-radius: 5px;
+       margin-left: -15%;
+    margin-top: -32%;
+}
+.man-all-body{
+    margin-top: -22%;
+}
+#lung-img{
+        width: 30px;
+    margin-top: 15px;
+    margin-left: 14px;
+}
+.laungs-name{
+display: flex;
+}
+.laungs-name-h1{
+        margin-top: 18px;
+    margin-left: 11px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+ 
+.laungs-name-date{
+        margin-top: 13px;
+    font-size: 0.6rem;
+    font-weight: 600;
+    margin-left: 18px;
+    color: gray;
+}
+.laungs-name-border{
+ width: 131px;
+    height: 5px;
+  background: linear-gradient(to right, rgb(227, 102, 56) 80%, #e8eaf6 80%);
+  border-radius: 10px;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
+  margin-top: 12px;
+    margin-left: 19px;
+}
+.detail-name{
+        margin-left: 154px;
+    font-size: 0.8rem;
+    color: gray;
+    font-weight: 500;
+}
+.activity-name{
+    font-size: 0.9rem;
+    font-weight: 700;
+
+}
+.act-name-week{
+    color: gray;
+    font-size: 0.6rem;
+}
+
+ .activity-days{
+    display: flex;
+    /* padding: 15px; */
+    justify-content: space-evenly;
+     font-size: 0.8rem;
+     color: gray;
+ }
+ 
+.activity-days-lines {
+    height: 47px;
+    background-color: rgb(97, 195, 220);
+    /* color: rgb(97, 195, 220); */
+    width: 6px;
+    display: inline-block;
+    border-radius: 5px;
+    /* margin-left: 41px; */
+    /* border: 1px solid black; */
+}
+.activity-days-line {
+    height: 47px;
+    background-color: rgb(201, 222, 227);
+    /* color: rgb(97, 195, 220); */
+    width: 6px;
+    display: inline-block;
+    border-radius: 5px;
+         margin-top: 10px;
+    /* margin-left: 41px; */
+    /* border: 1px solid black; */
+}
+.lines-div{
+        display: flex
+;
+    gap: 7px;
+    margin-left: 52px;
+}
+
+
+
+
+
+
+
+
+/* second------------------------------------------ */
+ .home-main-two {
+    height: 602px;
+    width: 596px;
+        background-color: rgb(222 239 241);
+    border-radius: 0px 0px 28px 0px;
+}
+.dash-h2-name{
+    display: flex;
+     padding: 22px ;
+     
+}
+.section-two-name{
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+.section-two-name2{
+    margin-left: 72%;
+    margin-top: -4px;
+} 
+ 
+ 
+.section-second-days1 {
+    display: flex
+;
+    flex-direction: column;
+    gap: 7px;
+    margin-left: 30px;
+    font-size: 0.8rem;
+    text-align: center;
+}
+.section-second-days{
+    display: flex;
+}
+.tue {
+     background-color: rgb(194, 236, 236);
+    height: 132px;
+    width: 78px;
+    border-radius: 5px;
+    /* margin-top: 4px; */
+}
+.days-no-w{
+    background-color: blue;
+    color: white;
+    height: 20px;
+    width: 35px;
+    border-radius: 2px;
+   padding: 2px 0px;
+    margin-left: 25px;
+}
+.thur{
+    background-color:  rgb(211, 208, 208);
+    color: white;
+    height: 20px;
+    width: 35px;
+    border-radius: 2px;
+   padding: 2px 0px;
+    margin-left: 25px;
+}
+.sat{
+    background-color:   rgb(211, 208, 208);
+    color: white;
+    height: 20px;
+    width: 35px;
+    border-radius: 2px;
+   padding: 2px 0px;
+    margin-left: 25px;
+}
+.sun{
+    background-color:   rgb(211, 208, 208);
+    color: white;
+    height: 20px;
+    width: 54px;
+    border-radius: 2px;
+   padding: 2px 0px;
+     
+}
+/* ---------- */
+.dentist-amd-appo {
+    display: flex ;
+    gap: 21px;
+    margin-left: 33px;
+    margin-top: 18px;
+}
+.dentist{
+        height: 84px;
+    width: 164px;
+    background-color: rgb(23, 23, 159);
+    border-radius: 30px;
+    color: rgb(215, 213, 213);
+    font-size: 0.8rem;
+     
+}
+.appointment{
+         height:84px;
+    width: 339px;
+   background-color: rgb(211, 208, 208);
+    border-radius: 30px;
+    color:  rgb(85, 84, 84);
+    font-size: 0.8rem
+}
+.dentist-teeth {
+        display: flex
+;
+    padding: 9px 18px 0px 19px;
+    gap: 66px;
+}
+.dentist-date , .dentist-date-name {
+padding: 5px 10px 0px 19px;
+}
+.name-one-teeth{
+    font-weight: 600;
+}
+/* -------------------------- */
+.appointment-health {
+    height: 72px;
+    width: 339px;
+    background-color: rgb(211, 208, 208);
+    border-radius: 23px;
+    color: rgb(85, 84, 84);
+    font-size: 0.8rem;
+}
+.dentist-health{
+        height: 72px;
+    width: 164px;
+    background-color: rgb(23, 23, 159);
+    border-radius: 23px;
+    color: rgb(215, 213, 213);
+    font-size: 0.8rem;
+     
+}
+.dentist-teeth-health{
+    display: flex;
+    gap: 40px;
+    padding: 15px 18px 0px 19px;
+}
+.dentist-teeth-health-oph{
+      display: flex;
+    gap: 21px;
+    padding: 16px 18px 0px 13px;
+
+}
+.dentist-teeth-check {
+    display: flex
+;
+    padding: 16px 18px 0px 19px;
+    gap: 126px;
+}
+.schedule-name{
+        padding: 15px 41px;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+.schedule-name-on{
+    margin-left: 44px;
+    font-size: 0.9rem;
+    color: gray;
+}
+.dentist-and-appo{
+    display: flex ;
+    gap: 21px;
+    margin-left: 33px;
+    margin-top: 18px; 
+}
